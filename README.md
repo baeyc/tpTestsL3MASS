@@ -8,4 +8,5 @@ Les TPs sont au format Jupyter Notebook.
 ## Séance 1 : modèle binomial
  - séance du 21/02/2020, de **8h30 à 10h**
  - salle Clairin-Gauss (bâtiment M1)
+ - lancer l'application : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/baeyc/tpTestsL3MASS/master)
  
